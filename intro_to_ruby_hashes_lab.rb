@@ -25,7 +25,14 @@ def monopoly_with_third_tier
       :key1 => 1,
       :key2 => 2,
       :key3 => 3,
-      :key4 => 4} } } 
+      :key4 => 4
+      
+    },
+    :names => 
+    {
+      Key5 => 
+      
+    } } }
 
   # When you start writing the implementation for this method, copy the Hash
   # you built in the previous method. Run the tests. They will fail, but
